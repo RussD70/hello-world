@@ -1,2 +1,3 @@
 # hello-world
-my basic totally new to this attempt.
+my basic totally attempt, as i'm totally new to this attempt.
+Surely I will work it out
